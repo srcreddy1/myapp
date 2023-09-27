@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tmp1\\WA1\\WA1\\WA1.csproj": {}
+    "C:\\Users\\srcre\\DevZure\\myapp\\WA1\\WA1.csproj": {}
   },
   "projects": {
-    "C:\\tmp1\\WA1\\WA1\\WA1.csproj": {
+    "C:\\Users\\srcre\\DevZure\\myapp\\WA1\\WA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp1\\WA1\\WA1\\WA1.csproj",
+        "projectUniqueName": "C:\\Users\\srcre\\DevZure\\myapp\\WA1\\WA1.csproj",
         "projectName": "WA1",
-        "projectPath": "C:\\tmp1\\WA1\\WA1\\WA1.csproj",
+        "projectPath": "C:\\Users\\srcre\\DevZure\\myapp\\WA1\\WA1.csproj",
         "packagesPath": "C:\\Users\\srcre\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp1\\WA1\\WA1\\obj\\",
+        "outputPath": "C:\\Users\\srcre\\DevZure\\myapp\\WA1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
